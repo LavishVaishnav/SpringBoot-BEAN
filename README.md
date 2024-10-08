@@ -62,12 +62,9 @@ The application includes examples of different types of dependency injections:
 
 Feel free to submit issues or pull requests if you find bugs or want to add features!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
-For any inquiries, please contact **your-email@example.com**.
+For any inquiries, please contact **vaishnavlavish27@gmail.com**.
 
 ---
